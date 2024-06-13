@@ -1,4 +1,4 @@
-##Olá, eu sou a Bruna!!
+<h1>Olá, eu sou a Bruna!</h1>
 
 - 🌱 Atualmente estudando Desenvolvimento de Sistemas
 - 💞️ Apaixonada por Design e Dados

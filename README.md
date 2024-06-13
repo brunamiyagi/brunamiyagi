@@ -1,4 +1,5 @@
-<h1>Olá, eu sou a Bruna!</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9BF70B&random=false&width=545&height=73&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Bruna!+;Seja+bem+vindo!)](https://git.io/typing-svg)
 
 - 🌱 Atualmente estudando Desenvolvimento de Sistemas
 - 💞️ Apaixonada por Design e Dados
@@ -13,3 +14,5 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+

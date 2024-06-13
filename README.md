@@ -1,11 +1,14 @@
 
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9BF70B&random=false&width=545&height=73&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Bruna!+;Seja+bem+vindo!)](https://git.io/typing-svg)
 
-- 🌱 Atualmente estudando Desenvolvimento de Sistemas
-- 💞️ Apaixonada por Design e Dados
-- 😄 Pronouns: ela/ dela
+
+📚 Atualmente estudando Desenvolvimento de Sistemas <br>
+💞️ Apaixonada por Tecnologia, Design e Dados <br>
+😄 Pronouns: ela/ dela <br>
 
 <h2>Tecnologias:</h2>
+<div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,5 +17,12 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+</div>
 
+<h2>Git status</h2>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunamiyagi&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&card_height=210&currStreakNum=5AEB0E&sideNums=5AEB0E&ring=189900&fire=189900&currStreakLabel=189900)](https://git.io/streak-stats)
+
+</div>
 

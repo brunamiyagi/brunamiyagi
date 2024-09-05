@@ -26,4 +26,4 @@
 </div>
 
 ![snake gif](https://github.com/brunamiyagi/brunamiyagi/blob/output/github-contribution-grid-snake.gif)
-
+[![readme](https://github.com/readme-stats.verce1.app/api/pin/?brunamiyagi&repo=brunamiyagi&theme=react)](https://github.com/brunamiyagi/brunamiyagi)

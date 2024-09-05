@@ -16,6 +16,8 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+![Snake animation](https://github.com/brunamiyagi/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <h2>Git status</h2>

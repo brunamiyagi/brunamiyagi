@@ -1,4 +1,4 @@
-+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=public+sans&weight=600&size=40&pause=1000&color=3CF700&random=false&width=700&height=80&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Bruna!!;Seja+bem+vindo!!;Hi%2C+my+name+is+Bruna!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=public+sans&weight=600&size=40&pause=1000&color=3CF700&random=false&width=700&height=80&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Bruna!!;Seja+bem+vindo!!;Hi%2C+my+name+is+Bruna!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 📚 Atualmente estudando Desenvolvimento de Sistemas <br>
 💞️ Apaixonada por Tecnologia, Design e Dados <br>

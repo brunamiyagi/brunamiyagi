@@ -24,4 +24,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brunamiyagi&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&card_height=210&currStreakNum=5AEB0E&sideNums=5AEB0E&ring=189900&fire=189900&currStreakLabel=189900)](https://git.io/streak-stats)
 </div>
 
-![snake animation](https://github.com/brunamiyagi/brunamiyagi/blob/output/github-contribution-grid-snake.gif)
+
